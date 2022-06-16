@@ -3,7 +3,7 @@
 
 Implement the path finding function in Java by A-star algorithm
 
-## Functions
+## User Stories
 - Users set the target by right clicking, set the start by clicking the middle button (the scroll wheel), and create walls by left clicking. Destination and starting point can only be placed by once
 - To find the exactly shortest path, the algorithm will explore the nodes surrounding with the starting point with blue color. The shortest path will eventually be marked with purple color.
 - The application is able to generate a new grid with an entirely empty board
